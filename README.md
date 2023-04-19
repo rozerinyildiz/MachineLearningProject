@@ -8,10 +8,10 @@ Skin diseases are one of the most common health problems in our country and the 
 ### 2- Dataset
 
 There are four of the most common skin diseases in my data set that I will use in my project. These;
--melanoma
--rosacea
--keratosis pilaris
--eczema
+- melanoma
+- rosacea
+- keratosis pilaris
+- eczema
 
 Since I could not find a dataset about Keratosis Pilaris on Kaggle, I gathered the data from the articles.
 
